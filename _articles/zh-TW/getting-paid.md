@@ -14,7 +14,7 @@ image: /assets/images/cards/getting-paid.png
 
 ## 爲何會有人尋求經濟上的支持
 
-很多開源的工作都是來自志願者的辛勤付出。例如，有些人在使用專案的過程中遇到了問題，然後快速的修復了；也有些人是利用他們的業餘時間在開源專案中需求挑戰。
+test很多開源的工作都是來自志願者的辛勤付出。例如，有些人在使用專案的過程中遇到了問題，然後快速的修復了；也有些人是利用他們的業餘時間在開源專案中需求挑戰。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
